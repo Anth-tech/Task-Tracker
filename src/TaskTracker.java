@@ -1,5 +1,6 @@
 public class TaskTracker {
     public static void main(String args[]) {
+        
         switch (args[1]) {
             case "add": {
                 System.out.println("adding");
